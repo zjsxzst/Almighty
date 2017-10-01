@@ -16,6 +16,7 @@ namespace Almighty
         /// </summary>
         /// <param name="data"></param>
         /// <returns></returns>
+        /// 
         public string TransformationMD5(string data)
         {
             MD5CryptoServiceProvider MD5Data= new MD5CryptoServiceProvider();
