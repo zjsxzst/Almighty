@@ -3,3 +3,6 @@
 ################################################################################
 
 /Almighty/bin/Debug
+/Almighty/obj/Debug
+/Almighty.UI/bin/Debug
+/Almighty.UI/obj/Debug
