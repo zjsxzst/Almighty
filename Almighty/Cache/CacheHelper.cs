@@ -8,6 +8,12 @@ using System.Web.Caching;
 
 namespace Almighty.Cache
 {
+    //|------------------------------------------------------------|
+    //|                    基础信息：                              |
+    //|     名称：CacheHelper                                      |
+    //|     功能：Cache操作                                        |
+    //|     最后修改时间：2017/10/28                               |
+    //|------------------------------------------------------------|
     public class CacheHelper
     {
         /// <summary>  
