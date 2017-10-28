@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Cache\CacheHelper.cs" />
     <Compile Include="Data\SqlProcessing.cs" />
+    <Compile Include="Data\XmlTest.cs" />
     <Compile Include="Files\JsonOperation.cs" />
     <Compile Include="Files\XmlOperate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
