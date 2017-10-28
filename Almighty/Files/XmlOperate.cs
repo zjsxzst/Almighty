@@ -129,7 +129,7 @@ namespace Almighty.Files
             }
         }
         /// <summary>
-        /// 多表序列化
+        /// 列表序列化
         /// </summary>
         /// <param name="list"></param>
         /// <param name="Ptah"></param>
@@ -175,13 +175,13 @@ namespace Almighty.Files
             }
         }
         /// <summary>
-        /// 多表反序列化
+        /// 列表反序列化
         /// </summary>
         /// <param name="details"></param>
         /// <param name="Ptah"></param>
         /// <param name="erro"></param>
         /// <returns></returns>
-        public static bool DSerializeList(ref List<T> details, string Ptah, ref string erro)
+        public static bool DSerialize(ref List<T> details, string Ptah, ref string erro)
         {
             try
             {
